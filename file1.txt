@@ -1,2 +1,2 @@
 This is file 1
-Modifiled text
+This file is modified
